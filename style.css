@@ -8,6 +8,7 @@ body {
 section{
   display: flex;
   font-size: large;
+  margin-bottom: 10%;
 }
 .half-with{
   width: 50%;
@@ -30,4 +31,10 @@ h1{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+.dream-bg{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
   
